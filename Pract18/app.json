@@ -24,6 +24,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9ee28fed-c0f6-415c-8527-24fb9a2b2a5c"
+      }
+    },
+    "owner": "adang"
   }
 }
